@@ -5,7 +5,7 @@ Lab work of IBM Quantum Challenge Africa 2021
 
 ![](./images/lab1.png)
 
-| Lab-1 | https://quantum-computing.ibm.com/jupyter/user/quantum-challenge/2021-qgss/lab-1/lab-1.ipynb |
+| Lab-1 | https://nbviewer.jupyter.org/github/ashishpatel26/IBM-Quantum-Challenge-Africa-2021/blob/main/Lab1/lab1.ipynb |
 | ----- | ------------------------------------------------------------ |
 
 ---
@@ -13,7 +13,7 @@ Lab work of IBM Quantum Challenge Africa 2021
 
 ![](./images/lab2.png)
 
-| Lab-2 | https://quantum-computing.ibm.com/jupyter/user/quantum-challenge/2021-qgss/lab-2/lab-2.ipynb |
+| Lab-2 | https://nbviewer.jupyter.org/github/ashishpatel26/IBM-Quantum-Challenge-Africa-2021/blob/main/Lab2/lab2.ipynb |
 | ----- | ------------------------------------------------------------ |
 
 ---
@@ -21,7 +21,7 @@ Lab work of IBM Quantum Challenge Africa 2021
 
 ![](./images/lab3.png)
 
-| Lab-3 | https://quantum-computing.ibm.com/jupyter/user/quantum-challenge/2021-qgss/lab-3/lab-3.ipynb |
+| Lab-3 | https://nbviewer.jupyter.org/github/ashishpatel26/IBM-Quantum-Challenge-Africa-2021/blob/main/Lab3/lab3.ipynb |
 | ----- | ------------------------------------------------------------ |
 
 ---
